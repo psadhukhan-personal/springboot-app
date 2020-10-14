@@ -4,4 +4,9 @@
 # adding line 2 in remote
 # adding line 5 in remote
 # adding line 6 in remote
+<<<<<<< HEAD
 # adding line 7 in remote
+=======
+# adding line 7 in remote
+# adding line 8 in remote
+>>>>>>> 8e44036cdce853ea394f20df1a97d65f9c05240b
